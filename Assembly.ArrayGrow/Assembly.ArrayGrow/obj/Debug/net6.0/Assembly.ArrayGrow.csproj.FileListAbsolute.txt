@@ -1,0 +1,14 @@
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\bin\Debug\net6.0\Assembly.ArrayGrow.exe
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\bin\Debug\net6.0\Assembly.ArrayGrow.deps.json
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\bin\Debug\net6.0\Assembly.ArrayGrow.runtimeconfig.json
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\bin\Debug\net6.0\Assembly.ArrayGrow.dll
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\bin\Debug\net6.0\Assembly.ArrayGrow.pdb
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\Assembly.ArrayGrow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\Assembly.ArrayGrow.AssemblyInfoInputs.cache
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\Assembly.ArrayGrow.AssemblyInfo.cs
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\Assembly.ArrayGrow.csproj.CoreCompileInputs.cache
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\Assembly.ArrayGrow.dll
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\refint\Assembly.ArrayGrow.dll
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\Assembly.ArrayGrow.pdb
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\Assembly.ArrayGrow.genruntimeconfig.cache
+D:\Assembly - Academia\Projetos de aula\Assembly.ArrayGrow\Assembly.ArrayGrow\obj\Debug\net6.0\ref\Assembly.ArrayGrow.dll
